@@ -30,7 +30,7 @@ body {
   bottom: 0;
   min-width: 50%;
   min-height: 50%;
-  filter: blur(15px);
+  filter: blur(50px);
   -webkit-filter: blur(50px);
   transform: scale(1.1);
 }
@@ -90,6 +90,7 @@ h3 {
   text-align: center;
   font-weight: 500;
   margin: 10px 0 0;
+  text-transform: capitalize;
 }
 
 .player-progress {
